@@ -1,0 +1,7 @@
+C:\Aula1c#\Qual é o preço do produto\Qual é o preço do produto\bin\Debug\Qual é o preço do produto.exe.config
+C:\Aula1c#\Qual é o preço do produto\Qual é o preço do produto\bin\Debug\Qual é o preço do produto.exe
+C:\Aula1c#\Qual é o preço do produto\Qual é o preço do produto\bin\Debug\Qual é o preço do produto.pdb
+C:\Aula1c#\Qual é o preço do produto\Qual é o preço do produto\obj\Debug\Qual é o preço do produto.csproj.AssemblyReference.cache
+C:\Aula1c#\Qual é o preço do produto\Qual é o preço do produto\obj\Debug\Qual é o preço do produto.csproj.CoreCompileInputs.cache
+C:\Aula1c#\Qual é o preço do produto\Qual é o preço do produto\obj\Debug\Qual é o preço do produto.exe
+C:\Aula1c#\Qual é o preço do produto\Qual é o preço do produto\obj\Debug\Qual é o preço do produto.pdb
